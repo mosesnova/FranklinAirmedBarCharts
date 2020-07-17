@@ -2,5 +2,5 @@
 
 Bar Charts
 
-![alt text](https://raw.githubusercontent.com/my-org/assets/master/folder/logo.png)
+![alt text](https://github.com/mosesnova/AirmedBarCharts/blob/master/Charting.JPG)
  
